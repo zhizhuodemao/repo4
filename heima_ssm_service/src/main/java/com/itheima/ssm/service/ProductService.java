@@ -1,6 +1,5 @@
 package com.itheima.ssm.service;
 
-import com.itheima.ssm.domain.Items;
 import com.itheima.ssm.domain.Product;
 
 import java.util.List;
